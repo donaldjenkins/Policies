@@ -2,37 +2,45 @@
 
 **The archived versions are _not_ current. Please read the [current](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/legal/terms/) Terms. Changes other than grammatical or typographical fixes are posted to Donald Jenkins’s [Twitter](https://web.archive.org/web/20221202120330/https://www.twitter.com/donaldjenkins) feed.**
 
-## 12th January, 2021
+## [3.0.1] - 2021-01-12
 
-- Notice given of changes · Typographical fixes [fix]
+###Changed
 
-- Grammatical corrections and typos no longer posted to Twitter feed. Miscellaneous typos.
+- Change Twitter notice of changes to exclude minor/grammatical typographical fixes.
+
+- Fix miscellaneous typos.
 
 [archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2021-01-12.pdf)
 
-## 27th December, 2020
-
-- Terms of Service redrafted and clarified · Notice of changes to be posted on Twitter [improvement]
-
-- Title changed to Terms. Definitions added. Undertaking to give notice of any changes to the Terms on [Twitter](https://web.archive.org/web/20221202120330/https://www.twitter.com/donaldjenkins).
-
 [archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2020-12-27.pdf)
 
-## 27th April, 2020
+## [3.0.0] - 2020-12-27
 
-- Terms of Service redrafted and clarified [improvement]
+_New release._
 
-- Terms of Service rewritten and clarified. Copyright section redrafted.
+[3.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md
+[3.0.1.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md
 
-[archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2020-04-27.pdf)
+### Changed
 
-## 7th March, 2012
+- Redraft and clarify Terms of Service.
+- Title changed to Terms.
 
-- Initial Terms of Service [new]
+### Added
 
-- Initial Terms of Service. Attribution: WordPress (Automattic). DMCA Policy. Separately-published licensing policy.
+- Add Definitions.
+- Add notice of change of Terms to Twitter.
 
-[archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2012-03-07.pdf)
+## [2.0.0] - 2020-04-27
+
+_New release._
+
+[2.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md
+
+### Changed
+
+- Clarify and redraft Terms of Service.
+- Redraft Copyright section.
 
 ## [1.0.0] - 2012-03-07
 
