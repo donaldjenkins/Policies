@@ -1,6 +1,29 @@
 # Terms changelog
 
-**The archived versions are _not_ current. Please read the [current](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/legal/terms/) Terms. Changes other than grammatical or typographical fixes are posted to Donald Jenkins’s [Twitter](https://web.archive.org/web/20221202120330/https://www.twitter.com/donaldjenkins) feed.**
+**The archived versions are _not_ current. Please read the [current](https://github.com/donaldjenkins/policies/blob/main/terms.md) Terms. Changes other than grammatical or typographical fixes are posted to Donald Jenkins’s [Twitter](https://www.twitter.com/donaldjenkins) feed.**
+
+## [4.0.0] - 2023-05-28
+
+_New release._
+
+[4.0.0.]: https://github.com/donaldjenkins/policies/blob/main/privacy.md
+
+### Changed
+
+- Remove references to Google Analytics (no longer used).
+- Clarify that users are not individually tracked in any way.
+- Clarify references to GDPR
+
+### Added
+
+- Add reference to Plausible Analytics.
+- Add reference to Amazon SES.
+- Add reference to Cloudflare.
+- Add reference to California Civil Code Section §1798.83.
+
+### Fixed
+
+-Fix miscellaneous typos
 
 ## [3.0.1] - 2021-01-12
 
