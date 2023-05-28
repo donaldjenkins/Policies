@@ -33,3 +33,11 @@
 - Initial Terms of Service. Attribution: WordPress (Automattic). DMCA Policy. Separately-published licensing policy.
 
 [archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2012-03-07.pdf)
+
+## [1.0.0] - 2012-03-07
+
+_Initial release._
+
+[1.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md
+
+- Initial Terms of Service. Attribution: WordPress (Automattic). DMCA Policy. Separately-published licensing policy.

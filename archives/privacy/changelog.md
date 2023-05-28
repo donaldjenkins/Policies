@@ -1,55 +1,79 @@
 # Privacy Policy changelog
 
-**The archived versions are _not_ current. Please read the [current](https://web.archive.org/web/20220707072547/https://www.donaldjenkins.com/legal/privacy/) Privacy Policy. Changes other than grammatical or typographical fixes are posted to Donald Jenkins’s [Twitter](https://web.archive.org/web/20220707072547/https://www.twitter.com/donaldjenkins) feed.**
+**The archived versions are _not_ current. Please read the [current](https://github.com/donaldjenkins/policies/blob/main/privacy.md) Privacy Policy. Changes other than grammatical or typographical fixes are posted to Donald Jenkins’s [Twitter](https://www.twitter.com/donaldjenkins) feed.**
 
-## 12th January, 2021
+## [4.0.0] - 2023-05-28
 
-Notice given of changes · Typos [fix]
+_New release._
 
-- .
+[4.0.0.]: https://github.com/donaldjenkins/policies/blob/main/privacy.md
 
-[archived version](https://web.archive.org/web/20220707072547/https://www.donaldjenkins.com/documents/archives/privacy-policy-2021-01-12.pdf)
+### Changed
+
+- Remove references to Google Analytics (no longer used).
+- Clarify that users are not individually tracked in any way.
+- Clarify references to GDPR
+
+### Added
+
+- Add reference to Plausible Analytics.
+- Add reference to Amazon SES.
+- Add reference to Cloudflare.
+- Add reference to California Civil Code Section §1798.83.
+
+### Fixed
+
+-Fix miscellaneous typos
 
 ## [3.0.1] - 2021-01-12
 
 ### Fixed
 
-- Grammatical corrections and typos no longer posted to Twitter feed
+- No longer post grammatical corrections and typos to Twitter feed
 - Miscellaneous typos
 
-## [2.0.0] 2020-12-27
+## [3.0.0] - 2020-12-27
+
+_New release._
 
 [3.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md
 [3.0.1.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md
 
-_New release._
-
 ### Changed
 
 - Clarifications and new safeguards.
-- Introduction rewritten and clarified.
-- References to Google Analytics improved and clarified.
-- Information sharing cases clarified. Reasons why California Consumer Privacy Act not applicable explained.
+- Rewrite and clarify introduction.
+- Improve and clarify references to Google Analytics.
+- Clarify information sharing cases. Explain reasons why California Consumer Privacy Act not applicable.
 
 ### Added
 
-- Definitions added. Undertaking to post notice on [Twitter](https://web.archive.org/web/20220707072547/https://www.twitter.com/donaldjenkins) of changes to Privacy Policy introduced.
-- Concluding personal statement by Website owner added.
+- Add definitions. Undertake to post notice on [Twitter](https://web.archive.org/web/20220707072547/https://www.twitter.com/donaldjenkins) of changes to Privacy Policy introduced.
+- Add concluding personal statement by Website owner added.
 
-[3.0.1.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md
-
-## [2.0.0] 2019-05-30
-
-[2.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-05-30.md
+## [2.0.0] - 2019-05-30
 
 _New release._
 
-New completely rewritten Privacy Policy. Introduction of definitions, collection of Personal Information: Google Analytics; Contact Form. GDPR Policy. Retention policy. Disclaimers. Information on User Rights. Complaint Procedure.
+[2.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-05-30.md
 
-## [1.0.0] 2012-03-07
+### Changed
+
+- New completely rewritten Privacy Policy.
+
+### Added
+
+- Introduce definitions, collection of Personal Information: Google Analytics; Contact Form.
+- Add GDPR Policy.
+- Add Retention policy.
+- Add Disclaimers.
+- Add Information on User Rights.
+- Add Complaint Procedure.
+
+## [1.0.0] - 2012-03-07
+
+_Initial release._
 
 [1.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md
-
-- _Initial release._
 
 First introduction of a Privacy Policy. Attribution: Automattic Privacy Policy with Creative Commons Attribution-Share Alike 3.0 Generic license.
