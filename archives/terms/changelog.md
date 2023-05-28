@@ -10,16 +10,14 @@ _New release._
 
 ### Changed
 
-- Remove references to Google Analytics (no longer used).
-- Clarify that users are not individually tracked in any way.
-- Clarify references to GDPR
+- Group licenses into four categories for greater clarity.
+- Remove reference to WordPress license.
+- Clarify references to logo and site dress copyright status.
 
 ### Added
 
-- Add reference to Plausible Analytics.
-- Add reference to Amazon SES.
-- Add reference to Cloudflare.
-- Add reference to California Civil Code Section §1798.83.
+- Add reference to Hugo Apache 2.0 license.
+- Add reference to Kensington Theme source code and MIT License.
 
 ### Fixed
 
@@ -27,22 +25,19 @@ _New release._
 
 ## [3.0.1] - 2021-01-12
 
+/[3.0.1./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md)
+
 ###Changed
 
 - Change Twitter notice of changes to exclude minor/grammatical typographical fixes.
 
 - Fix miscellaneous typos.
 
-[archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2021-01-12.pdf)
-
-[archived version](https://web.archive.org/web/20221202120330/https://www.donaldjenkins.com/documents/archives/terms-2020-12-27.pdf)
-
 ## [3.0.0] - 2020-12-27
 
 _New release._
 
-[3.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md
-[3.0.1.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md
+/[3.0.0./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md)
 
 ### Changed
 
@@ -54,21 +49,21 @@ _New release._
 - Add Definitions.
 - Add notice of change of Terms to Twitter.
 
-## [2.0.0] - 2020-04-27
+## /[2.0.0/] - 2020-04-27
 
 _New release._
 
-[2.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md
+/[2.0.0./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md)
 
 ### Changed
 
 - Clarify and redraft Terms of Service.
 - Redraft Copyright section.
 
-## [1.0.0] - 2012-03-07
+## /[1.0.0/] - 2012-03-07
 
 _Initial release._
 
-[1.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md
+/[1.0.0./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md)
 
 - Initial Terms of Service. Attribution: WordPress (Automattic). DMCA Policy. Separately-published licensing policy.
