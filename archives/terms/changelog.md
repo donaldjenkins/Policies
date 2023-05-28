@@ -21,11 +21,11 @@ _New release._
 
 ### Fixed
 
--Fix miscellaneous typos.
+- Fix miscellaneous typos.
 
 ## [3.0.1] - 2021-01-12
 
-/[3.0.1./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md)
+[3.0.1.]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md)
 
 ###Changed
 
@@ -37,7 +37,7 @@ _New release._
 
 _New release._
 
-/[3.0.0./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md)
+[3.0.0.]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-12-27.md)
 
 ### Changed
 
@@ -49,21 +49,21 @@ _New release._
 - Add Definitions.
 - Add notice of change of Terms to Twitter.
 
-## /[2.0.0/] - 2020-04-27
+## [2.0.0] - 2020-04-27
 
 _New release._
 
-/[2.0.0./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md)
+[2.0.0.]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2020-04-27.md)
 
 ### Changed
 
 - Clarify and redraft Terms of Service.
 - Redraft Copyright section.
 
-## /[1.0.0/] - 2012-03-07
+## [1.0.0] - 2012-03-07
 
 _Initial release._
 
-/[1.0.0./]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md)
+[1.0.0.]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2012-03-07.md)
 
 - Initial Terms of Service. Attribution: WordPress (Automattic). DMCA Policy. Separately-published licensing policy.
