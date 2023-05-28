@@ -74,6 +74,6 @@ _New release._
 
 _Initial release._
 
-\[1.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md]https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md)
+\[1.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md)
 
 First introduction of a Privacy Policy. Attribution: Automattic Privacy Policy with Creative Commons Attribution-Share Alike 3.0 Generic license.
