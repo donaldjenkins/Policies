@@ -27,6 +27,8 @@ _New release._
 
 ## \[3.0.1\] - 2021-01-12
 
+\[3.0.1.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md)
+
 ### Fixed
 
 - No longer post grammatical corrections and typos to Twitter feed
@@ -37,10 +39,6 @@ _New release._
 _New release._
 
 \[3.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md)
-
----
-
-\[3.0.1.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md)
 
 ### Changed
 
