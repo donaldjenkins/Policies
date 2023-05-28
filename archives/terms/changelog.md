@@ -21,7 +21,7 @@ _New release._
 
 ### Fixed
 
--Fix miscellaneous typos
+-Fix miscellaneous typos.
 
 ## [3.0.1] - 2021-01-12
 
