@@ -2,11 +2,11 @@
 
 **The archived versions are _not_ current. Please read the [current](https://github.com/donaldjenkins/policies/blob/main/privacy.md) Privacy Policy. Changes other than grammatical or typographical fixes are posted to Donald Jenkins’s [Twitter](https://www.twitter.com/donaldjenkins) feed.**
 
-## [4.0.0] - 2023-05-28
+## \[4.0.0\] - 2023-05-28
 
 _New release._
 
-[4.0.0.]: https://github.com/donaldjenkins/policies/blob/main/privacy.md
+\[4.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/privacy.md](https://github.com/donaldjenkins/policies/blob/main/privacy.md)
 
 ### Changed
 
@@ -25,19 +25,19 @@ _New release._
 
 -Fix miscellaneous typos
 
-## [3.0.1] - 2021-01-12
+## \[3.0.1\] - 2021-01-12
 
 ### Fixed
 
 - No longer post grammatical corrections and typos to Twitter feed
 - Miscellaneous typos
 
-## [3.0.0] - 2020-12-27
+## \[3.0.0\] - 2020-12-27
 
 _New release._
 
-[3.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md
-[3.0.1.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md
+\[3.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md)
+\[3.0.1.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md)
 
 ### Changed
 
@@ -51,11 +51,11 @@ _New release._
 - Add definitions. Undertake to post notice on [Twitter](https://web.archive.org/web/20220707072547/https://www.twitter.com/donaldjenkins) of changes to Privacy Policy introduced.
 - Add concluding personal statement by Website owner added.
 
-## [2.0.0] - 2019-05-30
+## \[2.0.0\] - 2019-05-30
 
 _New release._
 
-[2.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-05-30.md
+\[2.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-05-30.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-05-30.md)
 
 ### Changed
 
@@ -70,10 +70,10 @@ _New release._
 - Add Information on User Rights.
 - Add Complaint Procedure.
 
-## [1.0.0] - 2012-03-07
+## \[1.0.0\] - 2012-03-07
 
 _Initial release._
 
-[1.0.0.]: https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md
+\[1.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md]https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2012-12-07.md)
 
 First introduction of a Privacy Policy. Attribution: Automattic Privacy Policy with Creative Commons Attribution-Share Alike 3.0 Generic license.
