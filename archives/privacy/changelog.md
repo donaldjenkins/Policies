@@ -38,6 +38,8 @@ _New release._
 
 \[3.0.0.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2020-12-27.md)
 
+---
+
 \[3.0.1.\]: [https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/privacy/privacy-policy-2021-01-12.md)
 
 ### Changed
