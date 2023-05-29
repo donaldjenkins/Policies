@@ -27,7 +27,7 @@ _New release._
 
 [3.0.1.]: [https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md](https://github.com/donaldjenkins/policies/blob/main/archives/terms/terms-2021-01-12.md)
 
-###Changed
+### Changed
 
 - Change Twitter notice of changes to exclude minor/grammatical typographical fixes.
 
