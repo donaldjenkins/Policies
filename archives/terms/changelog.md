@@ -6,7 +6,7 @@
 
 _New release._
 
-[4.0.0.]: https://github.com/donaldjenkins/policies/blob/main/privacy.md
+[4.0.0.]: [https://github.com/donaldjenkins/policies/blob/main/privacy.md](https://github.com/donaldjenkins/policies/blob/main/privacy.md)
 
 ### Changed
 

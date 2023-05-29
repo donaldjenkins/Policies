@@ -14,7 +14,7 @@ noindex: true
 
 Donald Jenkins is committed to protecting the privacy of visitors to this Website. We have established this Privacy Policy to explain what information we collect on this Website and how it is used, as well as the protections we afford your Personal Information.
 
-This Privacy Policy is incorporated into the [Terms](/legal/terms/) for this Website. Your use of this Website means that you agree to the terms of both these documents.
+This Privacy Policy is incorporated into the [Terms](/policies/terms/) for this Website. Your use of this Website means that you agree to the terms of both these documents.
 
 Except as explained below, this Privacy Policy applies to our collection and handling of information about you that we receive as a result of your use of this Website This Policy also applies to information that we receive from our partners or other third parties.
 
